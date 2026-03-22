@@ -6,6 +6,9 @@ DashThemes is a collection of Xbox 360 themes inspired by various dashboards. Th
 
 To install any theme on your console, follow these steps. The instructions are provided in a README file alongside each theme.
 
+> [!NOTE]
+> Before you read these instructions, please know that none of these themes are premium themes (themes with background items) unless noted.
+
 ## Method 1
 
 1. Plug the storage device of your choice into your computer.
