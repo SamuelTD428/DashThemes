@@ -1,3 +1,5 @@
+We are currently working on a new project: **DashPremiumThemes**. [See here for more info.](https://github.com/SamuelTD428/DashPremiumThemes/tree/main)
+
 # DashThemes
 DashThemes is a collection of Xbox 360 themes inspired by various dashboards. These themes can be applied to any Xbox 360 dashboard.
 
