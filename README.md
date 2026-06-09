@@ -27,7 +27,7 @@ To install any theme on your console, follow these steps. The instructions are p
 ## Method 2
 
 1. Plug the storage device of your choice into your computer.
-2. Go to the root of the storage device, and look for a folder named "Content". If there is not a folder with that name, create one with that name, or plug the flash drive into your Xbox 360 and turn it on, then plug it back into your computer.
+2. Go to the root of the storage device, and look for a folder named "Content". If there is not a folder with that name, create one with that name, or plug the flash drive into your Xbox 360 and turn it on, create a profile on the storage device, then plug it back into your computer.
 3. Inside the Content folder, there should be a folder named "0000000000000000". Click on that folder.
 4. Look for a folder named as the Title ID of the Xbox Dashboard (FFFE07D1).
 5. There should be a folder named "00030000". Click on it.
