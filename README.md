@@ -4,7 +4,7 @@ We are currently working on a new project: **DashPremiumThemes**. [See here for 
 DashThemes is a collection of Xbox 360 themes inspired by various dashboards. These themes can be applied to any Xbox 360 dashboard.
 
 > [!IMPORTANT]
-> However, it is advisable to avoid using certain themes on the NXE dashboard, as they may cause parts of the image to be cut off.
+> However, it is advisable to avoid using certain themes on the NXE or Kinect dashboard, as they may cause parts of the image to be cut off.
 
 To install any theme on your console, follow these steps. The instructions are provided in a README file alongside each theme.
 
